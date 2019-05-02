@@ -1,0 +1,23 @@
+{
+  "name": "tensorflowjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ribeirolm/tensorflowjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ribeirolm/tensorflowjs/issues"
+  },
+  "homepage": "https://github.com/ribeirolm/tensorflowjs#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.1.0",
+    "@tensorflow/tfjs-node": "^1.1.0"
+  }
+}
